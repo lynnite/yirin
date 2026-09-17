@@ -1,4 +1,4 @@
-This is the primary repo of Yirin, a work-in-progress tank combat server
+This is the primary repo of Yirin, a work-in-progress tank combat fork
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox)
 
